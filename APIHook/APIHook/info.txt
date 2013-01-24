@@ -1,0 +1,12 @@
+7c93b6ec 开始push
+00000000 0007f8b0(dllname) 000a0000 0007f7e8
+
+BOOLEAN NTAPI LdrpResolveDllName 	(
+	 	PWSTR  	DllPath,
+		PWSTR  	DllName,
+		PUNICODE_STRING  	FullDllName,
+		PUNICODE_STRING  	BaseDllName	 
+	)
+
+
+它成功的时候返回0，失败的时候返回c0000135h

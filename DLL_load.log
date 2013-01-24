@@ -1,0 +1,70 @@
+c0000135	||DllName:C:\WINDOWS\system32\TPSvcloc.dll	||ProcessPath:\??\C:\WINDOWS\system32\winlogon.exe
+c0000135	||DllName:imejpknl.dll	||ProcessPath:C:\WINDOWS\IME\imjp8_1\IMJPMIG.EXE
+c0000135	||DllName:imejp98k.dll	||ProcessPath:C:\WINDOWS\IME\imjp8_1\IMJPMIG.EXE
+c0000135	||DllName:C:\WINDOWS\system32\srvlic.dll	||ProcessPath:C:\WINDOWS\System32\svchost.exe
+c0000135	||DllName:wlbsctrl.dll	||ProcessPath:C:\WINDOWS\system32\lsass.exe
+c0000135	||DllName:ifsproxy.dll	||ProcessPath:C:\WINDOWS\system32\wuauclt.exe
+c0000135	||DllName:dwmapi.dll	||ProcessPath:C:\Program Files\VMware\VMware Tools\vmtoolsd.exe
+c0000135	||DllName:fxsst.dll	||ProcessPath:C:\WINDOWS\Explorer.EXE
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonCHS.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonCHT.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonCHS.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonCHT.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonLOC.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\system32\TPVMMonloc.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:TPPCOIPW32.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:TPGenLic.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:thinmon.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\WINDOWS\System32\spool\PRTPROCS\W32X86\localspl.dll	||ProcessPath:C:\WINDOWS\system32\spoolsv.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:.\kdbgconsole.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wps.exe
+c0000135	||DllName:.\kdbgconsole.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wps.exe
+c0000135	||DllName:.\kaccessible.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wps.exe
+c0000135	||DllName:.\kaccessible.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wps.exe
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:ipbootp.dll	||ProcessPath:C:\WINDOWS\System32\svchost.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\WINDOWS\Explorer.EXE
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\WINDOWS\system32\wintab32.dll	||ProcessPath:C:\Hex-Rays.IDA.Pro.Advanced.v6.1.Windows.incl.Hex-Rays.x86.Decompiler.v1.5.READ.NFO-RDW\ida61\idaq.exe
+c0000135	||DllName:C:\WINDOWS\system32\wintab32.dll	||ProcessPath:C:\Hex-Rays.IDA.Pro.Advanced.v6.1.Windows.incl.Hex-Rays.x86.Decompiler.v1.5.READ.NFO-RDW\ida61\idaq.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\WINDOWS\Explorer.EXE
+c0000135	||DllName:ifsproxy.dll	||ProcessPath:C:\WINDOWS\System32\svchost.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\WINDOWS\Explorer.EXE
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\VSS\win32\ssxx.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistLOC.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\VSS\win32\ssxx.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistLOC.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
+c0000135	||DllName:updateautotest.dll	||ProcessPath:C:\Program Files\Kingsoft\WPS Office Personal\office6\wpsupdate.exe
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\VSS\win32\ssxx.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHS.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistCHT.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Visual Assist X\VAssistLOC.dll	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:EEF90.DLL	||ProcessPath:C:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin\MSDEV.EXE
+c0000135	||DllName:C:\Program Files\WinRAR\rarlng.dll	||ProcessPath:C:\Program Files\WinRAR\WinRAR.exe
